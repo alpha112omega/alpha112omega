@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering..
 - 🌱 I’m currently learning HMTL,CSS,JS,REACT,BOOTSTRAP,PYTHON,C,DATABASE
 - 💞️ I’m looking to collaborate on Web projects.
-- 📫 How to reach me: akshatyadav815@gmail.com||instagram:alpha_omega_spirit||...
+- 📫 How to reach me: akshatyadav815@gmail.com||instagram:c.u.r.s.e.d||...
 
 <!---
 alpha112omega/alpha112omega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
